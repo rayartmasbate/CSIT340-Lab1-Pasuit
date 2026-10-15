@@ -1,7 +1,7 @@
 export default function App() {
   return (
     <div className="max-w-2xl mx-auto px-6 pt-16 pb-16 font-sans">
-
+      <h1 className="text-4xl font-semibold tracking-tight">PALAUTS KAYKA HA</h1>
       <h1 className="text-4xl font-semibold tracking-tight">Kim Bryan P. Pasu-it</h1>
       <p className="mt-2 text-lg text-slate-600">Third year BSIT student at Cebu Institute of Technology – University.</p>
       <hr className="mt-8 border-slate-200"/>
